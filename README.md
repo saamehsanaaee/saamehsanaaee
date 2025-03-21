@@ -1,7 +1,6 @@
 ## Hey there, I'm Saameh!
+🧠 I’m a neurobiology and neuroimaging (junior) researcher currently working on tfMRI-based working-memory modeling.
 
-Here's my attempt at a basic GitHub profile ```README.md``` (a work in progress that I'll try to update soon):
+👩‍💻 I can code in Python and R in Linux environments and Windows (I know, lame ...) and I'm working to expand my computational skills.
 
-🔭 I’m a neurobiology and neuroimaging (Junior) researcher currently working on tfMRI-based working-memory modeling.
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/saameh-sanaaee/) or [Bluesky](https://bsky.app/profile/saamehsanaaee.bsky.social)!
+📨 You can reach me on [LinkedIn](https://www.linkedin.com/in/saameh-sanaaee/) or [Bluesky](https://bsky.app/profile/saamehsanaaee.bsky.social)!
