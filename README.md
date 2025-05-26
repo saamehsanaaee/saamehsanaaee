@@ -7,5 +7,5 @@
 Here are some bright buttons to use if you'd like to reach out!
 
 <a href="mailto:saameh.sanaaee@neuromatchacademy.org"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=3600"/></a>
-<a href="https://www.linkedin.com/in/saameh-sanaaee/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600"/></a>
 <a href="https://bsky.app/profile/saamehsanaaee.bsky.social"><img src="https://img.shields.io/badge/bluesky-%230085FF.svg?style=for-the-badge&logo=bluesky&logoColor=white&cacheSeconds=3600"/></a>
+<a href="https://www.linkedin.com/in/saameh-sanaaee/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600"/></a>
