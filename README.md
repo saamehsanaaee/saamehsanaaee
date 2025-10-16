@@ -3,6 +3,8 @@
 
 👩‍💻 Currently, I'm working with fMRI data and building a model of working memory (a major part of our short-term memory) and learning about how the brain manages information in real time. I'm mainly using Python and, well ... a bit of luck!
 
+Check out my [GitHub page](https://saamehsanaaee.github.io/) or view my [CV](https://saamehsanaaee.github.io/sanaaee_cv.pdf).
+
 ---
 Here are some bright buttons to use if you'd like to reach out!
 
