@@ -1,5 +1,5 @@
 ## Hey there, I'm Saameh!
-🧠 I’m a neurobiology and neuroimaging \[junior\] researcher working as an independant researcher with a wonderful team.
+🧠 I’m a neurobiology and neuroimaging researcher and molecular biologist working as an independant researcher with a wonderful team.
 
 👩‍💻 Currently, I'm working with fMRI data and building a model of working memory (a major part of our short-term memory) and learning about how the brain manages information in real time. I'm mainly using Python and, well ... a bit of luck!
 
